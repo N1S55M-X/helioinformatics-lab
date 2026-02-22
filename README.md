@@ -71,3 +71,4 @@ This repository demonstrates the fundamental entry point for modern solar physic
 - Scientific AI Systems
 
 ---
+<img width="728" height="604" alt="image" src="https://github.com/user-attachments/assets/8761336f-f8a6-41d0-8e1d-c76a06bb7331" />
